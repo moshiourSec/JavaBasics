@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e03f0ca7-8d2c-40df-8eef-5739a9a2c46f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/JavaPractice/src/JavaPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractice/src/JavaPractice.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nKLAJgyfSqjQqzA8yZvAxc4sd6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaPractice" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPractice" />
+      <module name="JavaBasics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e03f0ca7-8d2c-40df-8eef-5739a9a2c46f" name="Default Changelist" comment="" />
+      <created>1611133690927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611133690927</updated>
+      <workItem from="1611133694366" duration="931000" />
+      <workItem from="1611134632077" duration="70000" />
+    </task>
+    <task id="LOCAL-00001" summary="update java practice file">
+      <created>1611133880436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611133880436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update java practice file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update java practice file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="859" y="367" key="#Notifications" timestamp="1611134701489">
+      <screen x="0" y="23" width="1920" height="989" />
+    </state>
+    <state x="859" y="367" key="#Notifications/-1920.23.1920.1057/0.23.1920.989@0.23.1920.989" timestamp="1611134701489" />
+    <state x="433" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611134626408">
+      <screen x="0" y="23" width="1920" height="989" />
+    </state>
+    <state x="433" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.23.1920.1057/0.23.1920.989@0.23.1920.989" timestamp="1611134626408" />
+    <state x="576" y="73" key="CommitChangelistDialog2" timestamp="1611133880244">
+      <screen x="0" y="23" width="1920" height="989" />
+    </state>
+    <state x="576" y="73" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.989@0.23.1920.989" timestamp="1611133880244" />
+    <state width="1719" height="254" key="GridCell.Tab.0.bottom" timestamp="1611134627487">
+      <screen x="0" y="23" width="1920" height="989" />
+    </state>
+    <state width="1719" height="254" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.989@0.23.1920.989" timestamp="1611134627487" />
+    <state width="1719" height="254" key="GridCell.Tab.0.center" timestamp="1611134627486">
+      <screen x="0" y="23" width="1920" height="989" />
+    </state>
+    <state width="1719" height="254" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.989@0.23.1920.989" timestamp="1611134627486" />
+    <state width="1719" height="254" key="GridCell.Tab.0.left" timestamp="1611134627486">
+      <screen x="0" y="23" width="1920" height="989" />
+    </state>
+    <state width="1719" height="254" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.989@0.23.1920.989" timestamp="1611134627486" />
+    <state width="1719" height="254" key="GridCell.Tab.0.right" timestamp="1611134627486">
+      <screen x="0" y="23" width="1920" height="989" />
+    </state>
+    <state width="1719" height="254" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.989@0.23.1920.989" timestamp="1611134627486" />
+    <state x="568" y="237" key="Vcs.Push.Dialog.v2" timestamp="1611133891411">
+      <screen x="0" y="23" width="1920" height="989" />
+    </state>
+    <state x="568" y="237" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.989@0.23.1920.989" timestamp="1611133891411" />
+  </component>
+</project>
