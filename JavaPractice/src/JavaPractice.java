@@ -16,5 +16,8 @@ class JavaPractice{
         Method m =c.getDeclaredMethod("display", null);
         m.setAccessible(true);
         m.invoke(o, null);
+        System.out.println("Check new branch");
     }
+
+
 }
