@@ -17,6 +17,7 @@ class JavaPractice{
         m.setAccessible(true);
         m.invoke(o, null);
         System.out.println("Check new branch");
+        System.out.println("Check new branchsdfghjkil;op");
     }
 
 
